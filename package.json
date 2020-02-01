@@ -1,0 +1,16 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "this is our first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devserver":"node ./index.js"
+  },
+  "author": "LIZA",
+  "license": "ISC",
+  "dependencies":
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  }
+}
